@@ -27,7 +27,7 @@ use subtle::ConstantTimeEq;
 use tracing::{error, info, warn};
 use uuid::Uuid;
 
-const ADMIN_EMAIL: &str = "sksalee071@gmail.com";
+const ADMIN_EMAIL: &str = "knsalee@gmail.com";
 const CAMPAIGN_LOCK: i64 = 817263;
 const CAMPAIGN_AMOUNT_MINOR: i64 = 1000;
 const CAMPAIGN_DURATION_DAYS: i64 = 15;
